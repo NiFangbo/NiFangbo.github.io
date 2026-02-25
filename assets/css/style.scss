@@ -4,6 +4,6 @@
 
 .page-header {
   background-image: url('/assets/images/Bear.jpg') !important;
-  background-size: cover !important;
+  background-size: contain !important;
   background-position: center !important;
-}
+  background-repeat: no-repeat !important;
