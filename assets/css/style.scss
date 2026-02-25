@@ -3,7 +3,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: url('Bear.jpg') !important;
+  background-image: url('/assets/images/Bear.jpg') !important;
   background-size: cover !important;
   background-position: center !important;
 }
